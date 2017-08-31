@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChainConstructors/ChainConstructors.iml" filepath="$PROJECT_DIR$/ChainConstructors/ChainConstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RefactoringToPatternsJava.iml" filepath="$PROJECT_DIR$/RefactoringToPatternsJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReplaceConstructorsWithCreationMethods/ReplaceConstructorsWithCreationMethods.iml" filepath="$PROJECT_DIR$/ReplaceConstructorsWithCreationMethods/ReplaceConstructorsWithCreationMethods.iml" />
+    </modules>
+  </component>
+</project>
