@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ChainConstructors/ChainConstructors.iml" filepath="$PROJECT_DIR$/ChainConstructors/ChainConstructors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EncapsulateClassesWithFactory/EncapsulateClassesWithFactory.iml" filepath="$PROJECT_DIR$/EncapsulateClassesWithFactory/EncapsulateClassesWithFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/RefactoringToPatternsJava.iml" filepath="$PROJECT_DIR$/RefactoringToPatternsJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReplaceConstructorsWithCreationMethods/ReplaceConstructorsWithCreationMethods.iml" filepath="$PROJECT_DIR$/ReplaceConstructorsWithCreationMethods/ReplaceConstructorsWithCreationMethods.iml" />
     </modules>
